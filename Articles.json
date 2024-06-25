@@ -1,0 +1,157 @@
+[
+    {
+        "ID": "1",
+        "Article title": "\"Call me Kiran\" ChatGPT as a Tutoring Chatbot in a Computer Science Course",
+        "Reference": "Rajala, Jaakko, et al. \"\"Call me Kiran\" \u2013 ChatGPT as a Tutoring Chatbot in a Computer Science Course.\" Proceedings of the 26th International Academic Mindtrek Conference, 2023, https://doi.org/10.1145/3616961.3616974."
+    },
+    {
+        "ID": "2",
+        "Article title": "\u201cIt's not like Jarvis, but it's pretty close!\u201d - Examining ChatGPT's Usage among Undergraduate Students in Computer Science",
+        "Reference": "Budhiraja, Ritvik, et al. \"It's not like Jarvis, but it's pretty close! - Examining ChatGPT's Usage among Undergraduate Students in Computer Science.\" Proceedings of the 26th Australasian Computing Education Conference, 2024."
+    },
+    {
+        "ID": "3",
+        "Article title": "\u201cIt\u2019s Weird That it Knows What I Want\u201d: Usability and Interactions with Copilot for Novice Programmers",
+        "Reference": "Prather, James, et al. \"It\u2019s Weird That it Knows What I Want: Usability and Interactions with Copilot for Novice Programmers.\" ACM Transactions on Computer-Human Interaction, vol. 31, no. 1, 2023, pp. 1-31."
+    },
+    {
+        "ID": "4",
+        "Article title": "A Report on the Use of ChatGPT in Software Engineering and Systems Analysis Courses",
+        "Reference": "Albonico, Michel, and Paulo J\u00fanior Varela. \"A Report on the Use of ChatGPT in Software Engineering and Systems Analysis Courses.\" Proceedings of the XXXVII Brazilian Symposium on Software Engineering, 2023, pp. 303-311."
+    },
+    {
+        "ID": "5",
+        "Article title": "An Exploratory Study on the Impact of AI tools on the Student Experience in Programming Courses: an Intersectional Analysis Approach",
+        "Reference": "Maher, Mary Lou, et al. \"An Exploratory Study on the Impact of AI tools on the Student Experience in Programming Courses: an Intersectional Analysis Approach.\" 2023 IEEE Frontiers in Education Conference (FIE), 2023, pp. 1-5."
+    },
+    {
+        "ID": "6",
+        "Article title": "Augmented intelligence in programming learning: Examining student views on the use of ChatGPT for programming learning",
+        "Reference": "Yilmaz, Ramazan, and Fatma Gizem Karaoglan Yilmaz. \"Augmented intelligence in programming learning: Examining student views on the use of ChatGPT for programming learning.\" Computers in Human Behavior: Artificial Humans, vol. 1, no. 2, 2023, pp. 100005, https://doi.org/10.1016/j.chbah.2023.100005."
+    },
+    {
+        "ID": "7",
+        "Article title": "Bridging the Programming Skill Gap with ChatGPT: A Machine Learning Project with Business Students",
+        "Reference": "Reiche, Michael, and Jochen L. Leidner. \"Bridging the Programming Skill Gap with ChatGPT: A Machine Learning Project with Business Students.\" European Conference on Artificial Intelligence, 2023, pp. 439-446."
+    },
+    {
+        "ID": "8",
+        "Article title": "Can Large Language Models Provide Feedback to Students? A Case Study on ChatGPT",
+        "Reference": "Dai, Wei, et al. \"Can Large Language Models Provide Feedback to Students? A Case Study on ChatGPT.\" 2023 IEEE International Conference on Advanced Learning Technologies (ICALT), 2023, pp. 323-325."
+    },
+    {
+        "ID": "9",
+        "Article title": "ChatGPT and Software Testing Education: Promises & Perils",
+        "Reference": "Jalil, S., et al. \"ChatGPT and Software Testing Education: Promises & Perils.\" arXiv, 2023, https://arxiv.org/abs/2302.03287."
+    },
+    {
+        "ID": "10",
+        "Article title": "ChatGPT for Education and Research: Opportunities, Threats, and Strategies",
+        "Reference": "Rahman, Md Mostafizer, and Yutaka Watanobe. \"ChatGPT for Education and Research: Opportunities, Threats, and Strategies.\" Applied Sciences, vol. 13, no. 9, 2023, pp. 5783."
+    },
+    {
+        "ID": "11",
+        "Article title": "ChatGPT for Teaching and Learning: An Experience from Data Science Education",
+        "Reference": "Zheng, Yong. \"ChatGPT for Teaching and Learning: An Experience from Data Science Education.\" Proceedings of the 24th Annual Conference on Information Technology Education, 2023, pp. 66-72."
+    },
+    {
+        "ID": "12",
+        "Article title": "ChatGPT in the Classroom. Exploring Its Potential and Limitations in a Functional Programming Course",
+        "Reference": "Popovici, Matei-Dan. \"ChatGPT in the Classroom. Exploring Its Potential and Limitations in a Functional Programming Course.\" International Journal of Human--Computer Interaction, 2023, pp. 1-12."
+    },
+    {
+        "ID": "13",
+        "Article title": "ChatGPT: Challenges and Benefits in Software Programming for Higher Education",
+        "Reference": "Silva, Carlos Alexandre Gouvea da, et al. \"ChatGPT: Challenges and Benefits in Software Programming for Higher Education.\" Sustainability, vol. 16, no. 3, 2024, pp. 1245."
+    },
+    {
+        "ID": "14",
+        "Article title": "Comparing Code Explanations Created by Students and Large Language Models",
+        "Reference": "Leinonen, Juho, et al. \"Comparing Code Explanations Created by Students and Large Language Models.\" Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1, 2023, pp. 124-130."
+    },
+    {
+        "ID": "15",
+        "Article title": "Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language",
+        "Reference": "Denny, Paul, et al. \"Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language.\" Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), 2023, pp. 1136-1142."
+    },
+    {
+        "ID": "16",
+        "Article title": "Cracking the code: Co-coding with AI in creative programming education",
+        "Reference": "Jonsson, Martin, and Jakob Tholander. \"Cracking the Code: Co-coding with AI in Creative Programming Education.\" Proceedings of the 14th Conference on Creativity and Cognition, 2022, pp. 5-14."
+    },
+    {
+        "ID": "17",
+        "Article title": "Creative Use of OpenAI in Education: Case Studies from Game Development",
+        "Reference": "French, Fiona, et al. \"Creative Use of OpenAI in Education: Case Studies from Game Development.\" Multimodal Technologies and Interaction, vol. 7, no. 8, 2023, pp. 81."
+    },
+    {
+        "ID": "18",
+        "Article title": "Enhancing Programming Education with Chatgpt: A Case Study on Student Perceptions and Interactions in a Python Course",
+        "Reference": "Ma, Boxaun, et al. \"Enhancing Programming Education with ChatGPT: A Case Study on Student Perceptions and Interactions in a Python Course.\" arXiv preprint arXiv:2403.15472, 2024."
+    },
+    {
+        "ID": "19",
+        "Article title": "Exploring the Potential of Large Language Models to Generate Formative Programming Feedback",
+        "Reference": "Kiesler, Natalie, et al. \"Exploring the Potential of Large Language Models to Generate Formative Programming Feedback.\" 2023 IEEE Frontiers in Education Conference (FIE), 2023, pp. 1-5."
+    },
+    {
+        "ID": "20",
+        "Article title": "Exploring the Responses of Large Language Models to Beginner Programmers' Help Requests",
+        "Reference": "Hellas, Arto, et al. \"Exploring the Responses of Large Language Models to Beginner Programmers' Help Requests.\" Proceedings of the 2023 ACM Conference on International Computing Education Research-Volume 1, 2023, pp. 93-105."
+    },
+    {
+        "ID": "21",
+        "Article title": "Exploring the Student Perspective: Assessing Technology Readiness and Acceptance for Adopting Large Language Models in Higher Education",
+        "Reference": "Lemke, Claudia, et al. \"Exploring the Student Perspective: Assessing Technology Readiness and Acceptance for Adopting Large Language Models in Higher Education.\" 22nd European Conference on e-Learning: ECEL 2023, Academic Conferences and publishing limited, 2023."
+    },
+    {
+        "ID": "22",
+        "Article title": "From Ban It Till We Understand It to Resistance is Futile: How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot",
+        "Reference": "Lau, Sam, and Philip Guo. \"From 'Ban It Till We Understand It' to 'Resistance is Futile': How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot.\" Proceedings of the 2023 ACM Conference on International Computing Education Research-Volume 1, 2023, pp. 106-121."
+    },
+    {
+        "ID": "23",
+        "Article title": "Generative AI in Computing Education: Perspectives of Students and Instructors",
+        "Reference": "Zastudil, Cynthia, et al. \"Generative AI in Computing Education: Perspectives of Students and Instructors.\" 2023 IEEE Frontiers in Education Conference (FIE), 2023, pp. 1-9."
+    },
+    {
+        "ID": "24",
+        "Article title": "Integrating ChatGPT in a Computer Science Course: Students Perceptions and Suggestions",
+        "Reference": "Aruleba, Kehinde, et al. \"Integrating ChatGPT in a Computer Science Course: Students Perceptions and Suggestions.\" arXiv preprint arXiv:2402.01640, 2023."
+    },
+    {
+        "ID": "25",
+        "Article title": "On ChatGPT: Perspectives from Software Engineering Students",
+        "Reference": "Hanifi, Khadija, et al. \"On ChatGPT: Perspectives from Software Engineering Students.\" 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS), 2023, pp. 196-205."
+    },
+    {
+        "ID": "26",
+        "Article title": "Patterns of Student Help-Seeking When Using a Large Language Model-Powered Programming Assistant",
+        "Reference": "Sheese, Brad, et al. \"Patterns of Student Help-Seeking When Using a Large Language Model-Powered Programming Assistant.\" Proceedings of the 26th Australasian Computing Education Conference, 2024, pp. 49-57."
+    },
+    {
+        "ID": "27",
+        "Article title": "Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming",
+        "Reference": "Kazemitabaar, Majeed, et al. \"Studying the Effect of AI Code Generators on Supporting Novice Learners in Introductory Programming.\" Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 2023, pp. 1-23."
+    },
+    {
+        "ID": "28",
+        "Article title": "The effect of generative artificial intelligence (AI)-based tool use on students' computational thinking skills, programming self-efficacy and motivation",
+        "Reference": "Yilmaz, Ramazan, and Fatma Gizem Karaoglan Yilmaz. \"The Effect of Generative Artificial Intelligence (AI)-Based Tool Use on Students' Computational Thinking Skills, Programming Self-Efficacy and Motivation.\" Computers and Education: Artificial Intelligence, vol. 4, 2023, pp. 100147."
+    },
+    {
+        "ID": "29",
+        "Article title": "The Effects of Generative AI on Computing Students' Help-Seeking Preferences",
+        "Reference": "Hou, Irene, et al. \"The Effects of Generative AI on Computing Students' Help-Seeking Preferences.\" Proceedings of the 26th Australasian Computing Education Conference, 2024, pp. 39-48."
+    },
+    {
+        "ID": "30",
+        "Article title": "The robots are coming: Exploring the implications of OpenAI Codex on introductory programming",
+        "Reference": "Finnie-Ansley, James, et al. \"The Robots are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming.\" Proceedings of the 24th Australasian Computing Education Conference, 2022, pp. 10-19."
+    },
+    {
+        "ID": "31",
+        "Article title": "Would ChatGPT-facilitated programming mode impact college students\u2019 programming behaviors, performances, and perceptions? An empirical study",
+        "Reference": "Sun, Dan, et al. \"Would ChatGPT-Facilitated Programming Mode Impact College Students\u2019 Programming Behaviors, Performances, and Perceptions? An Empirical Study.\" International Journal of Educational Technology in Higher Education, vol. 21, no. 1, 2024, pp. 14."
+    }
+]
